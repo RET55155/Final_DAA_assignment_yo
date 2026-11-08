@@ -237,4 +237,5 @@ Summary of the actual run (`python tests/student/oracle_test.py`, environment ab
 ## Sources and AI assistance
 
 - **Course material:** assignment specification and its docs in the template repository (`docs/Assignment_4_EN.md`, `docs/guide/*`, algorithm notes), lecture 8–10 topics (DP patterns, KMP/hash, suffix arrays/Kasai/Aho–Corasick).
+- **AI assistance:** AI assistance was used to better understand the problem statements and requirements, clarify complex edge cases and contracts in the assignment specifications, and explore algorithm trade-offs. All code and benchmarks were executed and verified independently on the local machine.
 - **Verification of the work:** the independent oracles and validators described under "Own tests" (they do not share code with the implementation), the 44 public checks, the random cross-checks and the large-domain tests. No external algorithm library and no built-in substring search is used in the algorithms.
